@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zhlBdtFlYFp19neRht892yI/KPlXLFYCZxMFWSEtFzs=",
+  "Source": "UserBalanceAPI",
+  "BasePath": "_content/UserBalanceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
